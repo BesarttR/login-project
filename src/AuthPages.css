@@ -357,6 +357,7 @@
 @media (max-width: 767px) {
   .auth-wrapper {
     grid-template-columns: 1fr;
+    margin-left: 0.7rem;
   }
   
   .auth-form-container {
