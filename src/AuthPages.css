@@ -357,11 +357,13 @@
 @media (max-width: 767px) {
   .auth-wrapper {
     grid-template-columns: 1fr;
-    margin-left: 0.7rem;
+   align-items: center;
+    margin-left: 0.6rem;
   }
   
   .auth-form-container {
     padding: 1.5rem;
+    align-items: center;
   }
   
   .social-buttons {
